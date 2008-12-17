@@ -1,0 +1,55 @@
+8
+
+dir
+25
+http://addendum.googlecode.com/svn/trunk
+http://addendum.googlecode.com/svn
+
+
+
+2007-07-15T15:34:37.384377Z
+23
+jan.suchal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fa2e90a8-c81d-0410-b55e-9bccfdb07dd3
+
+LICENSE
+file
+
+
+
+
+2007-09-12T12:48:49.564049Z
+9d1439e76e652f8276f8555bae39b55d
+2006-09-19T06:36:14.304631Z
+2
+jan.suchal
+
+annotations.php
+file
+
+
+
+
+2007-09-12T12:48:49.579677Z
+7d105826fe0185cb76d38a29ac154176
+2006-10-18T22:42:09.254834Z
+6
+jan.suchal
+
+annotations
+dir
+

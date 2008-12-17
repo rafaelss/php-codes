@@ -1,0 +1,4 @@
+<?
+class MyIterator extends IteratorAggregate {
+}
+?>

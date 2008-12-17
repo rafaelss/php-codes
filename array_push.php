@@ -1,0 +1,1 @@
+<?php$count = 100000;$array = array();$start = microtime(true);for($i = 0; $i < $count; $i++) {    array_push($array, $i);}echo sprintf('%.6f', microtime(true)-$start);echo "\n\n\n";$array = array();$start = microtime(true);for($i = 0; $i < $count; $i++) {    $array[] = $i;}echo sprintf('%.6f', microtime(true)-$start);?>

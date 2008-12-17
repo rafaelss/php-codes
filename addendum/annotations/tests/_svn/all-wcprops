@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/23/trunk/annotations/tests
+END
+annotation_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/2/trunk/annotations/tests/annotation_test.php
+END
+all_tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/6/trunk/annotations/tests/all_tests.php
+END
+acceptance_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/svn/!svn/ver/4/trunk/annotations/tests/acceptance_test.php
+END
+annotation_parser_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/23/trunk/annotations/tests/annotation_parser_test.php
+END
+doc_comment_test.php
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/svn/!svn/ver/6/trunk/annotations/tests/doc_comment_test.php
+END

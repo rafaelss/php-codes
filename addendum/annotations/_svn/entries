@@ -1,0 +1,55 @@
+8
+
+dir
+25
+http://addendum.googlecode.com/svn/trunk/annotations
+http://addendum.googlecode.com/svn
+
+
+
+2007-07-15T15:34:37.384377Z
+23
+jan.suchal
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+fa2e90a8-c81d-0410-b55e-9bccfdb07dd3
+
+tests
+dir
+
+annotation_parser.php
+file
+
+
+
+
+2007-09-12T12:48:49.548421Z
+d4b5a8d18aa318dda8de757e1ed8b64f
+2007-07-15T15:34:37.384377Z
+23
+jan.suchal
+
+doc_comment.php
+file
+
+
+
+
+2007-09-12T12:48:49.548421Z
+89dd89ae0b0886e69bce2b7141de10be
+2006-10-18T22:42:09.254834Z
+6
+jan.suchal
+
