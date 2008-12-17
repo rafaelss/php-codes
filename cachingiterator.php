@@ -73,7 +73,7 @@ class Results implements IteratorAggregate, ArrayAccess, Countable {
     }
 */
 
-$db = new PDO('mysql:host=irene;dbname=cms', 'root', '');
+$db = new PDO('mysql:host=localhost;dbname=cms', 'root', '');
 $stmt = $db->prepare('SELECT * FROM products LIMIT 2');
 
 $results = new Results($stmt);
